@@ -10,14 +10,14 @@
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonyryan122&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=anhtran917&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   
 <!--   my-ticker -->    
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Tony+Ryan;I+am+a+full+stack+Web+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Anh+Tran;I+am+a+full+stack+Web+developer;)](https://git.io/typing-svg)
   
 </div>
 <div align="center">
@@ -86,9 +86,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tonyryan122&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anhtran917&theme=dracula)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyryan122&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran917&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <div align="center">
@@ -106,7 +106,7 @@ counting of visitors to this page in this section started from Aug 20, 2022
 
 
 <!--
-**tonyryan122/tonyryan122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anhtran917/anhtran917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
