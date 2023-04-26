@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Github and read tech articles.
 
-- :mailbox:How to reach me: [![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)]([https://web.skype.com/live:.cid.7114495b3cffae75](https://join.skype.com/invite/yArxGJY3EuLa)) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eZ8j2emt)[![Telegram Badge]([https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/anhtran917)
+- :mailbox:How to reach me: [![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/yArxGJY3EuLa) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eZ8j2emt) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anhtran917)
   
   <!--   my-skils -->
 
